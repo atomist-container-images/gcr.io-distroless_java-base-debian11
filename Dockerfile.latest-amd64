@@ -1,2 +1,2 @@
-# Tags: latest-amd64
+# Tags:  latest-amd64
 FROM gcr.io/distroless/java-base-debian11:latest-amd64

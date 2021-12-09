@@ -1,2 +1,2 @@
-# Tags: latest-arm64
+# Tags:  latest-arm64
 FROM gcr.io/distroless/java-base-debian11:latest-arm64
