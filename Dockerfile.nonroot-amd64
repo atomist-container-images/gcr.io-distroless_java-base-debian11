@@ -1,2 +1,0 @@
-# Tags:  nonroot-amd64
-FROM gcr.io/distroless/java-base-debian11:nonroot-amd64
